@@ -1,4 +1,4 @@
-animation: {typename: $bpa.strip.Pulse}
+animation: {typename: $bpa.matrix.pinwheel}
 driver:
   filename: doc/tutorial/5-footer.gif
   render: {padding: 1, pixel_width: 6}
