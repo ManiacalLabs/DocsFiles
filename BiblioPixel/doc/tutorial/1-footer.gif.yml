@@ -1,0 +1,9 @@
+animation: {typename: $bpa.matrix.MatrixRain}
+driver:
+  filename: doc/tutorial/1-footer.gif
+  render: {padding: 1, pixel_width: 6}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [64, 16]

@@ -1,0 +1,9 @@
+animation: {typename: $bpa.strip.Pulse}
+driver:
+  filename: doc/tutorial/6-footer.gif
+  render: {padding: 1, pixel_width: 6}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24, seconds: 2}
+shape: [64, 17]

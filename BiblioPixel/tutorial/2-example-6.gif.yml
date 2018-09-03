@@ -1,9 +1,0 @@
-animation: {color: red, typename: test.bibliopixel.animation.documentation_class.Example26}
-driver:
-  filename: tutorial/2-example-6.gif
-  render: {padding: 2, pixel_width: 8}
-  time: 10
-  typename: .gif_writer
-numbers: float
-run: {flat_out: true, fps: 24}
-shape: [48, 48]

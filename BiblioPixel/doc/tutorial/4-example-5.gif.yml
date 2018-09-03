@@ -1,0 +1,13 @@
+animation:
+  animations: [$bpa.matrix.ImageAnim, $bpa.matrix.ImageShow, $bpa.matrix.ImageDissolve,
+    $bpa.matrix.ScreenGrab]
+  length: 2
+  typename: .sequence
+driver:
+  filename: doc/tutorial/4-example-5.gif
+  render: {padding: 3, pixel_width: 12}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [32, 32]
