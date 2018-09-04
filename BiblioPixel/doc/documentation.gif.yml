@@ -1,4 +1,4 @@
-animation: {typename: $bpa.matrix.Twinkle}
+animation: {density: 100, speed: 30, typename: $bpa.matrix.Twinkle}
 driver:
   filename: doc/documentation.gif
   render: {padding: 1, pixel_width: 4}

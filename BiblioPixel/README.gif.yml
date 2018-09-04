@@ -1,6 +1,6 @@
 animation: {typename: $bpa.matrix.bloom}
 driver:
-  filename: short-gif.gif
+  filename: README.gif
   render: {padding: 1, pixel_width: 6}
   time: 10
   typename: .gif_writer
