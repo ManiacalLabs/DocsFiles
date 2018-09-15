@@ -1,7 +1,7 @@
 animation: {typename: $bpa.strip.Rainbows.Rainbow}
 driver:
   filename: doc/tutorial/9-footer.gif
-  render: {padding: 1, pixel_width: 4}
+  render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer
 numbers: float

@@ -5,7 +5,7 @@ animation:
   typename: sequence
 driver:
   filename: doc/tutorial/2-example-5.gif
-  render: {padding: 2, pixel_width: 8}
+  render: {padding: 2, pixel_width: 10}
   time: 10
   typename: .gif_writer
 numbers: float

@@ -1,7 +1,7 @@
 animation: {typename: $bpa.matrix.GameOfLife.GameOfLifeRGB}
 driver:
   filename: doc/tutorial/2-footer.gif
-  render: {padding: 1, pixel_width: 6}
+  render: {padding: 1, pixel_width: 8}
   time: 10
   typename: .gif_writer
 numbers: float

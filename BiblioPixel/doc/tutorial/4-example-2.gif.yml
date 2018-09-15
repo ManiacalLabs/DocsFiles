@@ -3,7 +3,7 @@ animation:
   typename: $bpa.matrix.MatrixRain
 driver:
   filename: doc/tutorial/4-example-2.gif
-  render: {padding: 3, pixel_width: 12}
+  render: {padding: 3, pixel_width: 15}
   time: 10
   typename: .gif_writer
 numbers: float

@@ -1,7 +1,7 @@
 animation: {density: 100, speed: 30, typename: $bpa.matrix.Twinkle}
 driver:
   filename: doc/documentation.gif
-  render: {padding: 1, pixel_width: 4}
+  render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer
 numbers: float
