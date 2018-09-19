@@ -1,4 +1,4 @@
-animation: {typename: $bpa.strip.HalvesRainbow}
+animation: {typename: $bpa.strip.Wave}
 driver:
   filename: doc/index-footer.gif
   render: {padding: 1, pixel_width: 8}

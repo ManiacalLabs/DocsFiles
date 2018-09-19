@@ -1,0 +1,9 @@
+animation: {typename: $bpa.matrix.GameOfLife.GameOfLifeRGB}
+driver:
+  filename: doc/roadmap-footer.gif
+  render: {padding: 1, pixel_width: 8}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [64, 11]
