@@ -1,7 +1,7 @@
 animation: {color: coral, typename: $bpa.strip.Wave}
 driver:
   filename: doc/tutorial/8-footer.gif
-  render: {padding: 1, pixel_width: 5}
+  render: {padding: 1, pixel_width: 4}
   time: 10
   typename: .gif_writer
 numbers: float

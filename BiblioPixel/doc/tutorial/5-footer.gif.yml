@@ -1,7 +1,7 @@
 animation: {typename: $bpa.matrix.pinwheel}
 driver:
   filename: doc/tutorial/5-footer.gif
-  render: {padding: 1, pixel_width: 8}
+  render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer
 numbers: float

@@ -1,7 +1,7 @@
 animation: {func: 1, rand: false, typename: $bpa.matrix.MathFunc}
 driver:
   filename: doc/index.gif
-  render: {padding: 1, pixel_width: 8}
+  render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer
 numbers: float

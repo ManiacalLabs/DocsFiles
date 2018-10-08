@@ -1,7 +1,7 @@
 animation: {typename: $bpa.strip.LarsonScanners.LarsonScanner}
 driver:
   filename: doc/tutorial/4-footer.gif
-  render: {padding: 1, pixel_width: 8}
+  render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer
 numbers: float
