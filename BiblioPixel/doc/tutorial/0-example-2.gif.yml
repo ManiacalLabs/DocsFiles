@@ -12,4 +12,4 @@ driver:
   typename: .gif_writer
 numbers: float
 run: {flat_out: true, fps: 24}
-shape: [32, 32]
+shape: [32, 12]
