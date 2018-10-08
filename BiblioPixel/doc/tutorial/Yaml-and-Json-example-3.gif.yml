@@ -1,0 +1,12 @@
+animation:
+  func: 23
+  palette: {colors: eight, continuous: true, scale: 0.01}
+  typename: $bpa.matrix.MathFunc
+driver:
+  filename: doc/tutorial/Yaml-and-Json-example-3.gif
+  render: {padding: 1, pixel_width: 5}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [64, 16]

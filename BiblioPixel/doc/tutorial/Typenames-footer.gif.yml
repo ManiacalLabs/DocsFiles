@@ -1,0 +1,9 @@
+animation: {color: coral, typename: $bpa.strip.Wave}
+driver:
+  filename: doc/tutorial/Typenames-footer.gif
+  render: {padding: 1, pixel_width: 4}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [96, 8]
