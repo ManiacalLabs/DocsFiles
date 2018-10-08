@@ -1,6 +1,6 @@
 animation: {func: 12, rand: false, typename: $bpa.matrix.MathFunc}
 driver:
-  filename: doc/tutorial/routing-addresses-and-actions-footer.gif
+  filename: doc/tutorial/Routing-Addresses-and-Actions-footer.gif
   render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer

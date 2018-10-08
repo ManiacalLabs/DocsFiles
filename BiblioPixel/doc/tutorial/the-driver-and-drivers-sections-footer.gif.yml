@@ -1,6 +1,6 @@
 animation: {typename: $bpa.matrix.MathFunc}
 driver:
-  filename: doc/tutorial/the-driver-and-drivers-sections-footer.gif
+  filename: doc/tutorial/The-driver-and-drivers-Sections-footer.gif
   render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer

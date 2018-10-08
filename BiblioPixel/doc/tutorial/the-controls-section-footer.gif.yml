@@ -1,6 +1,6 @@
 animation: {typename: $bpa.matrix.Mainframe}
 driver:
-  filename: doc/tutorial/the-controls-section-footer.gif
+  filename: doc/tutorial/The-controls-Section-footer.gif
   render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer

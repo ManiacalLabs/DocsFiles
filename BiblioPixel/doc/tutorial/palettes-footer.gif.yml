@@ -1,6 +1,6 @@
 animation: {func: 10, palette: pastel, typename: $bpa.matrix.MathFunc}
 driver:
-  filename: doc/tutorial/palettes-footer.gif
+  filename: doc/tutorial/Palettes-footer.gif
   render: {padding: 1, pixel_width: 5}
   time: 10
   typename: .gif_writer

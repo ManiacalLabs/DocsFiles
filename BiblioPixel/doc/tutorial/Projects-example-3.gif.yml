@@ -1,0 +1,11 @@
+animation:
+  colors: [blue, yellow, coral]
+  typename: $bpa.matrix.MatrixRain
+driver:
+  filename: doc/tutorial/Projects-example-3.gif
+  render: {padding: 2, pixel_width: 10}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 60}
+shape: [32, 32]
