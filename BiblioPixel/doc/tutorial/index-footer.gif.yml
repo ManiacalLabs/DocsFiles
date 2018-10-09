@@ -1,4 +1,4 @@
-animation: {text: BiblioPixel Tutorial, typename: $bpa.matrix.Text.ScrollText}
+animation: {text: The BiblioPixel Tutorial, typename: $bpa.matrix.Text.ScrollText}
 driver:
   filename: doc/tutorial/index-footer.gif
   render: {padding: 1, pixel_width: 5}
