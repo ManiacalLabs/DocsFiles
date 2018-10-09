@@ -1,4 +1,4 @@
-animation: {typename: $bpa.strip.LarsonScanners.LarsonScanner}
+animation: {typename: $bpa.strip.SaberBlade}
 driver:
   filename: doc/tutorial/Projects-footer.gif
   render: {padding: 1, pixel_width: 5}

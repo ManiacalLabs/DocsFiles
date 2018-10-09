@@ -1,4 +1,4 @@
-animation: {typename: $bpa.strip.LarsonScanners.LarsonRainbow}
+animation: {palette: warm, typename: $bpa.matrix.circlepop}
 driver:
   filename: doc/tutorial/The-bp-program-footer.gif
   render: {padding: 1, pixel_width: 5}

@@ -1,0 +1,11 @@
+animation:
+  colors: [blue, violet, magenta]
+  typename: $bpa.strip.PartyMode
+driver:
+  filename: doc/tutorial/type-guessing-footer.gif
+  render: {padding: 1, pixel_width: 5}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [64, 14]

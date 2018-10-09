@@ -1,4 +1,7 @@
-animation: {func: 10, palette: pastel, typename: $bpa.matrix.MathFunc}
+animation:
+  func: 10
+  palette: {colors: pastel, scale: 0.01}
+  typename: $bpa.matrix.MathFunc
 driver:
   filename: doc/tutorial/Palettes-footer.gif
   render: {padding: 1, pixel_width: 5}
