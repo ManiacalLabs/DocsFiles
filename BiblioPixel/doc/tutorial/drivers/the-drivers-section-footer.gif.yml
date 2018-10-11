@@ -1,0 +1,11 @@
+animation:
+  colors: [light grey, slate grey 1, slate grey 4]
+  typename: $bpa.strip.FireFlies
+driver:
+  filename: doc/tutorial/drivers/the-drivers-section-footer.gif
+  render: {padding: 1, pixel_width: 5}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [64, 16]

@@ -1,0 +1,9 @@
+animation: {bgcolor: dark gray, color: green, scroll: false, typename: $bpa.matrix.Mainframe}
+driver:
+  filename: doc/tutorial/sections/the-animation-section-example-2.gif
+  render: {padding: 2, pixel_width: 10}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [32, 32]

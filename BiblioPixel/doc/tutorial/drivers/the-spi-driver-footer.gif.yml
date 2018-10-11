@@ -1,0 +1,9 @@
+animation: {func: 8, palette: bold, typename: $bpa.matrix.MathFunc}
+driver:
+  filename: doc/tutorial/drivers/the-spi-driver-footer.gif
+  render: {padding: 1, pixel_width: 6}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: [61, 13]

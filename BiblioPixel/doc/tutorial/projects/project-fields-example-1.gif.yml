@@ -1,0 +1,9 @@
+animation: {typename: .tests.PixelTester}
+driver:
+  filename: doc/tutorial/projects/project-fields-example-1.gif
+  render: {padding: 2, pixel_width: 10}
+  time: 10
+  typename: .gif_writer
+numbers: float
+run: {flat_out: true, fps: 24}
+shape: 32
