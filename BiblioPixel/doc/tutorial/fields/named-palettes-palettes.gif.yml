@@ -1,0 +1,21 @@
+animation:
+  animations:
+  - {typename: $bpa.matrix.MathFunc}
+  - {palette: hideous, typename: $bpa.matrix.MathFunc}
+  - {palette: flag, typename: $bpa.matrix.MathFunc}
+  - {palette: g, typename: $bpa.matrix.MathFunc}
+  length: 2
+  typename: sequence
+driver:
+  filename: doc/tutorial/fields/named-palettes-palettes.gif
+  render: {padding: 1, pixel_width: 7}
+  time: 10
+  typename: .gif_writer
+numbers: float
+palettes:
+  default: lovely
+  g: van_gogh
+  hideous: [yellow, beige, maroon]
+  lovely: [lavender blush 1, lemon chiffon 1, light coral]
+run: {flat_out: true, fps: 24}
+shape: [48, 32]
